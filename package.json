@@ -1,0 +1,24 @@
+{
+  "name": "livejson",
+  "version": "1.0.0",
+  "description": "\u0016API that takes a path and spits out an object that lives access JSON data from disk and tracks modifications to write them out to disk.",
+  "main": "livejson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkar598/livejson.git"
+  },
+  "keywords": [
+    "json",
+    "live",
+    "disk"
+  ],
+  "author": "alexkar598",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexkar598/livejson/issues"
+  },
+  "homepage": "https://github.com/alexkar598/livejson#readme"
+}
